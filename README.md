@@ -1,6 +1,6 @@
 <!---Пример кода-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddtimofeev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DDTimofeev)](https://git.io/typing-svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddtimofeev&theme=solarized_dark)
 
